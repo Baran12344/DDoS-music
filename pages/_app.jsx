@@ -37,14 +37,14 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Support",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
-      href: "https://discord.gg/ZcDprCrFTn",
+      href: "https://discord.gg/QKGtnKVkCR",
     },
     {
       link: true,
       name: "Add Bot",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://bit.ly/3PHDjyC",
+      href: "https://discord.com/oauth2/authorize?client_id=1015151110647975986&permissions=34362884096&scope=bot%20applications.commands",
     },
        {
       link: true,
@@ -53,13 +53,6 @@ export default function AwardApp({ Component, pageProps }) {
       activeIcon: "fa fa-plus",
       href: "https://bit.ly/3LYzaDe",
     },
-    {
-      link: true,
-      name: "Partners",
-      icon: "fal fa-handshake",
-      activeIcon: "fa fa-handshake",
-      href: "/partners",
-    }
   ]
 
   return (
@@ -71,7 +64,7 @@ export default function AwardApp({ Component, pageProps }) {
       />
       <Head>
         <title>
-          Astra Bot
+          DDoS nusic
         </title>
       </Head>
       <main className="transition-all duration-200 z-10 absolute inset-0 px-5 h-screen max-w-7xl w-full mx-auto">
