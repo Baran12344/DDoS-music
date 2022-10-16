@@ -72,6 +72,12 @@ Vote DDoS music</a>
                   <p className="text-gray-500 line-clamp-4">An open source safe bot that you can browse and help us develop.</p>
                 </div>
               </div>
+               <div>
+                <div className="text-white">
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Support</p>
+                  <p className="text-gray-500 line-clamp-4">Discord sunucumuza gelerek botla ilgili sorunları belirtebilirsiniz.</p>
+                </div>
+              </div>
           </div>
       </div>
 
