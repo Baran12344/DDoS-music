@@ -91,20 +91,6 @@ export default function Footer() {
                         </div>
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Important</p>
-                            <div>
-                                <Link href="/tos">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Terms Of Service
-                                    </a>
-                                </Link>
-                            </div>
-                            <div>
-                                <Link href="/privacy">
-                                    <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                        Privacy Policy
-                                    </a>
-                                </Link>
-                            </div>
                         </div>
                     </div>
                     <div className="mt-10 grid content-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
