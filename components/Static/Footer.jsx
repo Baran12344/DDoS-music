@@ -17,7 +17,19 @@ export default function Footer() {
                             <Menu as="div" className="relative mt-3 inline-block text-left">
                                 <div>
                             </Menu>
-                        
+        <div className="py-1"></div>
+<a href="https://top.gg/bot/924325576095973426">
+  <img src={"https://top.gg/api/widget/servers/924325576095973426.svg"}/>
+</a>
+<div className="py-1"></div>
+<a href="https://top.gg/bot/924325576095973426">
+  <img src={"https://top.gg/api/widget/upvotes/924325576095973426.svg"}/>
+</a>
+<div className="py-1"></div>
+<a href="https://top.gg/bot/924325576095973426">
+  <img src={"https://top.gg/api/widget/owner/924325576095973426.svg"}/>
+</a>
+                                </div>
                         </div>
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
