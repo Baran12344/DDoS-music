@@ -3,27 +3,25 @@ import Link from "next/link";
 
 export default function Commands() {
   const commands = [
-    "/help",
-    "/invite",
-    "/lyrics",
-    "/ping",
-    "/stats",
-    "/setdj",
-    "/play",
-    "/serach",
-    "/stop",
-    "/skip",
-    "/back",
-    "/clear",
-    "/time",
-      "/queue",
-      "/pause",
-      "/resume",
-      "/volume",
-      "/nowplaying",
-      "/save",
-      "/loop",
-      "/filter"
+    "!help",
+    "!invite",
+    "!ping",
+    "!stats",
+    "!play",
+    "!serach",
+    "!stop",
+    "!skip",
+    "!back",
+    "!clear",
+    "!time",
+      "!queue",
+      "!pause",
+      "!resume",
+      "!volume",
+      "!nowplaying",
+      "!save",
+      "!loop",
+      "!filter"
       ]
   return (
     <>
