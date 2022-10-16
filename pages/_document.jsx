@@ -11,14 +11,14 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="How about moderating your own server with Astra bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds."
+            content="Wow işte Discord ta müzik dinlemeyi seven birileri, sana bi sır vereyim bende müzik dinlemeyi çık severim:)."
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@AstraBot" />
           <meta name="twitter:creator" content="@AstraBot" />
-          <meta property="og:url" content="https://astrabot.vercel.app" />
+          <meta property="og:url" content="https://ddos-music.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Astra Bot" />
+          <meta property="og:title" content="DDoS music" />
           <link
             rel="icon"
             href="/img/logo2.png"
@@ -26,11 +26,11 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="How about moderating your own server with Astra bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds."
+            content="Wow işte müzik dinlemeyi seven birileri."
           />
           <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="Astra Bot" />
-          <meta property="og:locale" content="en_GB" />
+          <meta property="og:image:alt" content="DDoS music" />
+          <meta property="og:locale" content="tr_TR" />
           <meta
             property="og:site_name"
             content="Astra Bot"
