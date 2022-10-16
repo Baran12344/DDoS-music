@@ -10,7 +10,7 @@ export default function Index() {
       <img width="500" src="https://cdn.discordapp.com/attachments/904763470623428738/1015932314615824424/sake-black-death-smile-wallpaper-preview.jpg" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-          Astra Bot
+          DDoS music
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
        Wow işte Discord ta müzik dinlemeyi seven birileri, sana bi sır vereyim bende müzik dinlemeyi çık severim:). 
