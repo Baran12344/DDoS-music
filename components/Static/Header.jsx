@@ -14,7 +14,7 @@ const MobileNavbar = ({ open, setOpen, NavItems }) => {
                 <div className="flex justify-between border-b border-white/20 items-center px-5 py-4">
                     <div className="flex items-center">
                         <img width="32" className="rounded-full icon-glow" src="https://cdn.discordapp.com/attachments/904763470623428738/1031122504498024478/sake-black-death-smile-wallpaper-preview-photoaidcom-cropped_1.jpg" />
-                        <p className=" font-extrabold ml-1 text-2xl">Astra Bot</p>
+                        <p className=" font-extrabold ml-1 text-2xl">DDoS music</p>
                     </div>
                     <button onClick={() => setOpen(!open)}><i className="cursor-pointer fa fa-times text-xl mr-2" /></button>
                 </div>
