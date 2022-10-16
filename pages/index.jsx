@@ -45,8 +45,8 @@ Vote DDoS music</a>
 
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
           <div className="col-span-4">
-            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Astra Bot" }} />
-            <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "How about creating the best environment to relax yourself with your own emotions?" }}/>
+            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"DDoS music" }} />
+            <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "DDoS music ile ilgili bütün gelişmelr burda!" }}/>
             <a href="https://bit.ly/3PHDjyC" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
               <i className="fab fa-discord mr-2" />Invite DDoS music
             </a>
@@ -76,9 +76,9 @@ Vote DDoS music</a>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Astra, the best and most up-to-date bot?</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En iyi ve en güncel bot olan DDoS music ile en iyi partileri vermeye hazır mısınız?</p>
                 </div>
-                <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://cdn.discordapp.com/attachments/904763470623428738/1031115549855457290/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
