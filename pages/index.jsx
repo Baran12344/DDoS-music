@@ -7,7 +7,7 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img width="500" https://cdn.discordapp.com/attachments/904763470623428738/1031122504498024478/sake-black-death-smile-wallpaper-preview-photoaidcom-cropped_1.jpg" />
+      <img width="500" " />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           DDoS music
