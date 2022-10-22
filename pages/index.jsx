@@ -13,7 +13,7 @@ export default function Index() {
           DDoS music
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       Wow işte Discord ta müzik dinlemeyi seven birileri, sana bi sır vereyim bende müzik dinlemeyi çık severim:). 
+       Wow işte Discord ta müzik dinlemeyi seven birileri, sana bi sır vereyim bende müzik dinlemeyi çok severim:). 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
